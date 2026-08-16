@@ -1,5 +1,5 @@
-# embenhimdangiu
-"Supply Chain Analyst in progress-building analytics toolkit with Python, pandas, and real-work datasets."
+# suppy chain portfolio
+"Supply Chain Analyst in progress-building analytics toolkit with Python, pandas, and real-world datasets."
 ## Superstore Sales Analysis
 
 **Tool:** Python, pandas, matplotlib
